@@ -11,3 +11,9 @@ https://courses.thetestingacademy.com/courses/playwright-automation-mastery-2x/c
 https://docs.google.com/spreadsheets/d/1nuC9T39cfWPRk4aRO-uMeIS3hcnaCDV48tp6jRuH8SY/edit?pli=1&gid=2043370034#gid=2043370034    :
 
 https://github.com/aaishah17y-collab/playwright-learning/blob/main/.gitignore   : git
+
+
+Play@Learn123
+
+
+
