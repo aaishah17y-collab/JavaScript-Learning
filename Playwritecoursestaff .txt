@@ -1,0 +1,13 @@
+C:\xampp\htdocs\Testlink\testlink-1.9.0\logs
+
+https://www.sdetclub.com/c/playwright-2x/   : Task
+ 
+https://app.thetestingacademy.com/student/my-process    :My progress
+
+https://app.eraser.io/workspace/aGf8WeO8HWibzTxOSvQn  : Notes
+
+https://courses.thetestingacademy.com/courses/playwright-automation-mastery-2x/contents/6a0170e96f489   : my courses
+
+https://docs.google.com/spreadsheets/d/1nuC9T39cfWPRk4aRO-uMeIS3hcnaCDV48tp6jRuH8SY/edit?pli=1&gid=2043370034#gid=2043370034    :
+
+https://github.com/aaishah17y-collab/playwright-learning/blob/main/.gitignore   : git
